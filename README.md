@@ -1,1 +1,1 @@
-Basic Ecommerce API
+Node Ecommerce API
